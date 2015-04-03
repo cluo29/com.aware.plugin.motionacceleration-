@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\exploded-aar\MotionAcceleration\aware-core\unspecified\libs\mqtt-client-0.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02315d1759d01e52495e040e6e538aaa2e91c7f6">
+        <dex dex="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\pre-dexed\debug\mqtt-client-0.4.0-68a7a615a350c9f81087b16e32a7b64ceeadc56d.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\exploded-aar\MotionAcceleration\aware-core\unspecified\libs\zbar.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0a7b88ba1496a0b4af76069ad40dacd3897149e0">
+        <dex dex="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\pre-dexed\debug\zbar-31c17851136beaa30384aae03f49995a9ee184f6.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\exploded-aar\MotionAcceleration\aware-core\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="494a517d3e261e79364403345ba26022c6a97b38">
+        <dex dex="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\pre-dexed\debug\classes-c8cefceddd0d505a49f51f94eac54f2aaf5aad21.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af4cc326e6cd92f88db12298767e521743aedd36">
+        <dex dex="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\pre-dexed\debug\classes-4ff0507ca4477dd4ccbd9355e85af143f0bf357b.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\exploded-aar\MotionAcceleration\aChartAndroidlib\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7f948751001b96338fab1cc781dcde224425411f">
+        <dex dex="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\pre-dexed\debug\classes-9168824169bd8e94e0121df8dd83a5ed91398680.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\pre-dexed\debug\classes-9a76a91000fed4004cad27133b725083bb96d476.jar" />
+    </item>
+    <item
+        jar="F:\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-9f9a5050af30b3fb0f02a0fffc174b4869a4b0de.jar" />
+    </item>
+    <item
+        jar="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\exploded-aar\MotionAcceleration\aChartAndroidlib\unspecified\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="E:\WWWWWWWWW\MotionAcceleration\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-0863072c91656fb62249634cecfb65ad296738eb.jar" />
+    </item>
+
+</items>
